@@ -1,8 +1,0 @@
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/convolution_compare.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/filtrage_median.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/geometric_transformations.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/ui_module.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/histogram_processing.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/test_module.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/edit_cache.dir
-/home/mantador/M1/synthese/final/analyse/TP1/build/CMakeFiles/rebuild_cache.dir
